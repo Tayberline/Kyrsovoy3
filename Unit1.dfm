@@ -14,19 +14,19 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object Button1: TButton
-    Left = 128
-    Top = 72
+    Left = 160
+    Top = 57
     Width = 145
-    Height = 65
-    Caption = #1048#1079#1084#1077#1085#1080#1090#1100' '#1085#1072#1079#1074#1072#1085#1080#1077' '#1055#1059#1057#1050
+    Height = 25
+    Caption = #1048#1079#1084#1077#1085#1080#1090#1100' '#1082#1085#1086#1087#1082#1091' '#1087#1091#1089#1082
     TabOrder = 0
     OnClick = Button1Click
   end
   object Edit1: TEdit
-    Left = 128
-    Top = 143
+    Left = 160
+    Top = 88
     Width = 145
-    Height = 42
+    Height = 69
     TabOrder = 1
   end
 end
